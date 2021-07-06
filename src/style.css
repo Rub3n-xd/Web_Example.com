@@ -1,0 +1,74 @@
+html {
+    margin: 0px;
+}
+
+body {
+    height: 100%;
+    background: linear-gradient(to right, rgb(65, 65, 177), rgb(177, 100, 65));
+    margin: 10px 10px 0px;
+}
+.content {
+    width: 100%;
+    min-height: 700px;
+    background: rgb(54, 54, 54);
+    border-radius: 20px;
+    margin-left: 0px;
+}
+
+.left-side {
+    overflow: hidden;
+    border-radius: inherit;
+    padding-left: 10px;
+    margin-top: 10px;
+    width: 40px;
+    height: 700px;
+    background: rgb(49, 49, 49);
+    transition: all 0.4s ease-in-out;
+}
+.left-side:hover {
+    overflow: hidden;
+    border-radius: inherit;
+    padding-left: 10px;
+    margin-top: 10px;
+    width: 200px;
+    height: 700px;
+    background: rgb(49, 49, 49);
+}
+.logo {
+    display: flex;
+    font-family: 'Open Sans';
+    color: rgb(211, 211, 211);
+    text-align: center;
+    align-items: center;
+    font-size: x-large;
+}
+.logo span {
+    text-indent: 10px;
+}
+.icon {
+    font-size: xx-large;
+    width: 30px;
+}
+.options ul {
+    padding-left: 0px;
+    list-style: none;
+    display: grid;
+}
+.options ul li {
+    color: rgb(139, 139, 139);
+    display: flex;
+    font-family: 'Open Sans';
+    align-items: center;
+    font-size: 20px;
+    transition: all 0.4s ease-in-out;
+}
+.options ul li a {
+    color: inherit;
+    text-decoration: none;
+}
+.options ul li:hover {
+    color: rgb(201, 201, 201);
+}
+.options ul li a {
+    text-indent: 10px;
+}
