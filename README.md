@@ -1,5 +1,5 @@
 # Web_Example.com
-Esta es una página bastante vacía con una barra lateral bastante agradable, cualquiera puede usar este open-source para lo que necesiten
+Esta es una página bastante vacía con una barra lateral bastante agradable, cualquiera puede usar este open-source para lo que necesiten.
 Aquí pueden ver la página:
 - rub3n-xd.github.io/Web_Example.com/src/Index.html
 
