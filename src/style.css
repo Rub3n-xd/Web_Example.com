@@ -94,7 +94,7 @@ body {
     color: rgb(201, 201, 201);
 }
 .white .options ul li:hover {
-    color: rgb(26, 25, 25);
+    color: rgb(78, 78, 78);
 }
 .options ul li a {
     text-indent: 10px;
@@ -113,7 +113,10 @@ body {
     color: rgb(39, 39, 39);
 }
 .configuration:hover {
-    color: rgb(26, 25, 25);
+    color: rgb(201, 201, 201);
+}
+.white .configuration:hover {
+    color: rgb(78, 78, 78);
 }
 .configuration a {
     color: inherit;
